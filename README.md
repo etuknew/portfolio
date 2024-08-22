@@ -18,6 +18,9 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
+![image](https://github.com/user-attachments/assets/881a5043-c234-430a-906f-cd6e1698a2bd)
+
+
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
