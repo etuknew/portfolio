@@ -23,10 +23,14 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](assets/car2.jpeg)
+**Sales Performance Analysis for Beyond Cars Ltd.**
+<!--![image](assets/car2.jpeg)-->
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+<img width="818" alt="dashboard" src="https://github.com/user-attachments/assets/1a459007-7f0a-4644-aabf-771b1db9f2f4">
+
+The Company's sales volume and growth rate in 2020 were higher compared to industry averages. 
+Manage resources better by matching demand with product visibility.
+With the increasing demand, we have identified opportunities and proposed strategies for growth and expansion.
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
