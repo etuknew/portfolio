@@ -33,7 +33,7 @@ Manage resources better by matching demand with product visibility.
 With the increasing demand, we have identified opportunities and proposed strategies for growth and expansion.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](assets/Report.pdf)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
