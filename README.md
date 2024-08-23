@@ -35,13 +35,14 @@ With the increasing demand, we have identified opportunities and proposed strate
 
 [Read More](assets/Report.pdf)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Procurement Analysis for Health Sector.**
 
-![image](assets/agro.jpg)
+![anietie etuk](https://github.com/user-attachments/assets/5fb813b2-fbb1-49a4-a8da-b164782261ce)
+
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/pulse/data-analytics-project-fifa-world-cup-finals-tutorial-etuk-anietie/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
